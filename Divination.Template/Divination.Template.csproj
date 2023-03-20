@@ -22,7 +22,7 @@
     </Reference>
 
     <PackageReference Include="Dalamud.Divination.Common" Version="0.1.0-beta.207" />
-    <PackageReference Include="DalamudPackager" Version="2.1.8">
+    <PackageReference Include="DalamudPackager" Version="2.1.11">
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
     <PackageReference Include="GitVersion.MsBuild" Version="5.11.1">
